@@ -1,2 +1,5 @@
 ﻿WELFake_Dataset.csv
 WELFake_Cleaned.csv
+
+# Large preprocessed dataset
+01_Dataset/WELFake_Preprocessed.csv
